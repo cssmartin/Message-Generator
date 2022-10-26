@@ -1,0 +1,49 @@
+h1 {
+    color: slateblue;
+    font-family: 'Ruda', sans-serif;
+}
+
+h2 {
+    color:steelblue;
+    font-family: 'Ruda', sans-serif;
+    font-weight:lighter;
+    font-size:medium;
+}
+
+body {
+    margin: auto;
+    max-width: 500px;
+    position: relative;
+    text-align: center;
+    padding: 20px;
+    top: 50px;
+    background-color: lightskyblue;
+}
+
+#generatebutton {
+    width: 100px;
+    height: 50px;
+    background-color:darkblue;
+    border-radius: 10px;
+    color:aliceblue;
+    font-weight: bold;
+    font-family: 'Archivo Block', sans-serif;
+    margin: 30px;
+}
+
+#message-window {
+    font-family: Arial, Helvetica, sans-serif;
+    color:blueviolet;
+    background-color: bisque;
+    width: 500px;
+    height:100px;
+    border: 5px solid black;
+    border-radius: 15px;
+}
+
+#messageinput {
+    background-color: none;
+    color:maroon;
+    font-size:inherit;
+    background-color: bisque;
+}
